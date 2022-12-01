@@ -1,5 +1,7 @@
 ## Thai Wikipedia text
 
+Clone from https://github.com/vistec-AI/thwiki-text 
+
 This repository provide a script to download Thai Wikipedia dump (`pages-articles`) from ([dumps.wikimedia.org/thwiki](https://dumps.wikimedia.org/thwiki/)), extract texts from the downloaded Wikipedia dump based on a tool, `wikiextractor==0.1`.
 
 
